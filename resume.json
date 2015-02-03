@@ -1,9 +1,76 @@
 {
 	"basics": {
-		"name":		"Ken Hoff",
-		"label":	"PM, Web/game dev/design",
-		"picture":	"",
-		"email":	"thekenhoff@gmail.com",
-		"phone":	"303.882.6490"
-	}
+		"name": "Ken Hoff",
+		"label": "PM, Web developer, Game designer",
+		"picture": "",
+		"email": "thekenhoff@gmail.com",
+		"phone": "303.882.6490",
+		"website": "http://kenhoff.net",
+		"summary": "Ken is really da best",
+		"location": {
+			"address": "1111 E Union St #618",
+			"postalCode": "98122",
+			"city": "Seattle",
+			"countryCode": "US",
+			"region": "Washington"
+		},
+		"profiles": [{
+			"network": "Twitter",
+			"username": "ken_hoff",
+			"url": "https://twitter.com/ken_hoff"
+		}]
+	},
+	"work": [{
+		"company": "Microsoft",
+		"position": "Program Manager",
+		"website": "http://www.microsoft.com/",
+		"startDate": "2014-07-14",
+		"summary": "Azure Active Directory"
+	}],
+	"education": [{
+		"institution": "University of Colorado at Boulder",
+		"area": "Computer Science - Human-Centered Computing",
+		"studyType": "Bachelor of Science",
+		"startDate": "2007-09-01",
+		"endDate": "2013-12-01",
+		"courses": [
+			"Startup Essentials for Software Engineering",
+			"Video Game Design and Production",
+			"Educational Game Development",
+			"Things That Think",
+			"User-Centered Design"
+		]
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Artisan",
+		"keywords": [
+			"Node.js",
+			"Angular",
+			"MongoDB"
+		]
+	}, {
+		"name": "Game Design",
+		"level": "Hobby-turned-serious-side-project",
+		"keywords": [
+			"PhaserJS",
+			"Firebase",
+			"Ludum Dare"
+		]
+	}],
+	"interests": [{
+		"name": "Cooking",
+		"keywords": [
+			"Cast iron",
+			"Knife skills",
+			"Bread baking"
+		]
+	}, {
+		"name": "Cars",
+		"keywords": [
+			"Subaru", 
+			"Rallying",
+			"Making left turns"
+		]
+	}]
 }
