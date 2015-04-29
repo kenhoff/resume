@@ -6,7 +6,7 @@
 		"email": "thekenhoff@gmail.com",
 		"phone": "303.882.6490",
 		"website": "http://kenhoff.net",
-		"summary": "Ken is really da best",
+		"summary": "Chaos muppet, red brick, and shark. I use vim by choice.",
 		"location": {
 			"address": "1111 E Union St #618",
 			"postalCode": "98122",
@@ -26,6 +26,33 @@
 		"website": "http://www.microsoft.com/",
 		"startDate": "2014-07-14",
 		"summary": "Azure Active Directory"
+	}, {
+		"company": "Rally Software",
+		"position": "Technologist",
+		"website": "https://www.rallydev.com/",
+		"startDate": "2013-06-01",
+		"endDate": "2014-02-01",
+		"summary": "Office of the CTO"
+	}, {
+		"company": "Sovrn (formerly Federated Media)",
+		"position": "Developer Intern",
+		"website": "http://www.sovrn.com/",
+		"startDate": "2013-03-01",
+		"endDate": "2013-05-01"
+	}, {
+		"company": "Boy Scouts of America",
+		"position": "High Adventure Director",
+		"website": "http://www.denverboyscouts.org/",
+		"startDate": "2003-06-01",
+		"endDate": "2011-08-01",
+		"summary": "Peaceful Valley Scout Ranch, Tahosa High Adventure Base"
+	}, {
+		"company": "US Geological Survey",
+		"position": "Developer Intern",
+		"website": "http://www.usgs.gov/",
+		"startDate": "2010-03-01",
+		"endDate": "2010-08-01",
+		"summary": "Used Twitter to detect earthquakes. No, seriously. http://xkcd.com/723/"
 	}],
 	"education": [{
 		"institution": "University of Colorado at Boulder",
@@ -46,8 +73,8 @@
 		"level": "Artisan",
 		"keywords": [
 			"Node.js",
-			"Angular",
-			"MongoDB"
+			"React",
+			"RethinkDB"
 		]
 	}, {
 		"name": "Game Design",
