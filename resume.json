@@ -2,14 +2,12 @@
 	"basics": {
 		"name": "Ken Hoff",
 		"label": "PM, Web developer, Game designer",
-		"picture": "",
 		"email": "thekenhoff@gmail.com",
 		"phone": "303.882.6490",
-		"website": "http://kenhoff.net",
-		"summary": "Chaos muppet, red brick, and shark. I use vim by choice.",
+		"website": "https://hoff.tech",
 		"location": {
-			"address": "1111 E Union St #618",
-			"postalCode": "98122",
+			"address": "925 Cherry St # 305",
+			"postalCode": "98104",
 			"city": "Seattle",
 			"countryCode": "US",
 			"region": "Washington"
@@ -25,14 +23,14 @@
 		"position": "Program Manager",
 		"website": "http://www.microsoft.com/",
 		"startDate": "2014-07-14",
-		"summary": "Azure Active Directory"
+		"summary": "I've spent the majority of my time at Microsoft working on the Reporting features of Azure Active Directory; helping organizational admins determine who did what, where, and when. In addition, I've contributed countless amounts of documentation and demo material for pre-sales and deployed customers of Azure Active Directory."
 	}, {
 		"company": "Rally Software",
-		"position": "Technologist",
+		"position": "Technologist - Office of the CTO",
 		"website": "https://www.rallydev.com/",
 		"startDate": "2013-06-01",
 		"endDate": "2014-02-01",
-		"summary": "Office of the CTO"
+		"summary": "I was part of an internal incubation team, working on something called 'Enterprise Lean Startup', where we brough Lean Startup techniques and practices to large teams and companies."
 	}, {
 		"company": "Sovrn (formerly Federated Media)",
 		"position": "Developer Intern",
@@ -45,14 +43,14 @@
 		"website": "http://www.denverboyscouts.org/",
 		"startDate": "2003-06-01",
 		"endDate": "2011-08-01",
-		"summary": "Peaceful Valley Scout Ranch, Tahosa High Adventure Base"
+		"summary": "For 7 years, I led the High Adventure program at Peaceful Valley Scout Ranch, and backpacking treks at Tahosa High Adventure Base."
 	}, {
 		"company": "US Geological Survey",
 		"position": "Developer Intern",
 		"website": "http://www.usgs.gov/",
 		"startDate": "2010-03-01",
 		"endDate": "2010-08-01",
-		"summary": "Used Twitter to detect earthquakes. No, seriously. http://xkcd.com/723/"
+		"summary": "I spent a summer using Twitter to detect earthquakes. No, seriously. http://xkcd.com/723/"
 	}],
 	"education": [{
 		"institution": "University of Colorado at Boulder",
@@ -80,7 +78,7 @@
 		"name": "Game Design",
 		"level": "Hobby-turned-serious-side-project",
 		"keywords": [
-			"PhaserJS",
+			"Unity3D",
 			"Firebase",
 			"Ludum Dare"
 		]
@@ -95,7 +93,7 @@
 	}, {
 		"name": "Cars",
 		"keywords": [
-			"Subaru", 
+			"Subaru",
 			"Rallying",
 			"Making left turns"
 		]
